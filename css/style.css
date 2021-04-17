@@ -1,0 +1,31 @@
+.mydiv{
+    border: 2px solid blue;
+    margin-top: 2px;
+    padding: 10px;
+}
+#fourthDiv{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    opacity: 0.4;
+    padding: 20px;
+    position: absolute;
+}
+.display-6{
+    text-align: center;
+}
+.newdiv{
+    border-radius: 10px;
+    background-color: aqua;
+}
+.newpara{
+    font-weight: bold;
+    color: red;
+}
+.cube{
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    color: #fff;
+}
