@@ -39,6 +39,7 @@ function validate(){
     }
 }
 
+
 var opacity = 0;
 var intervalID = 0;
 function fadeOut(){
